@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/firstReact/static/css/main.c59cc657.css",
+    "main.js": "/firstReact/static/js/main.4ebd6d68.js",
+    "index.html": "/firstReact/index.html",
+    "main.c59cc657.css.map": "/firstReact/static/css/main.c59cc657.css.map",
+    "main.4ebd6d68.js.map": "/firstReact/static/js/main.4ebd6d68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c59cc657.css",
+    "static/js/main.4ebd6d68.js"
+  ]
+}
